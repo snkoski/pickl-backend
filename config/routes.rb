@@ -5,7 +5,7 @@ Rails.application.routes.draw do
       resources :teams, only: [:index, :update, :show]
       resources :comments, only: [:index, :update]
       resources :likes, only: [:index, :update]
-      resources :posts, only: [:index, :update]
+      resources :posts, only: [:index, :update, :show]
       resources :users, only: [:index, :update]
     end
   end
