@@ -37,3 +37,27 @@
 # Comment.create(user_id: 3, post_id: 5, content: "Oh, drats")
 # Comment.create(user_id: 2, post_id: 6, content: "Sick Yeah!")
 # Comment.create(user_id: 1, post_id: 4, content: "WOO HOO")
+
+
+{"id":"38171",
+  "scheduleStatus":"Normal",
+  "originalDate":null,
+  "originalTime":null,
+  "delayedOrPostponedReason":null,
+  "date":"2017-06-19",
+  "time":"7:05PM",
+
+  "awayTeam":{
+    "ID":"116",
+    "City":"Cleveland",
+    "Name":"Indians",
+    "Abbreviation":"CLE"},
+
+  "homeTeam":{
+    "ID":"111",
+    "City":"Baltimore",
+    "Name":"Orioles",
+    "Abbreviation":"BAL"
+    },
+
+    "location":"Oriole Park at Camden Yards"}

@@ -1,8 +1,13 @@
 class Api::V1::TeamsController < ApplicationController
-  before_action :find_note, only: [:update]
+  before_action :find_team, only: [:update, :show]
   def index
     @teams = Team.all
     render json: @teams
+  end
+
+  def show
+    @team
+    render json: @team
   end
 
   def update
