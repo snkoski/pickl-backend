@@ -3,7 +3,7 @@ Rails.application.routes.draw do
   namespace :api do
     namespace :v1 do
       resources :teams, only: [:index, :update, :show]
-      resources :comments, only: [:index, :update]
+      resources :comments, only: [:index, :update, :create]
       resources :likes, only: [:index, :update]
       resources :posts, only: [:index, :update, :show]
       resources :users, only: [:index, :update]
