@@ -6,7 +6,7 @@
 "homeTeam":{"ID":"111","City":"Baltimore","Name":"Orioles","Abbreviation":"BAL"},
 
 "location":"Oriole Park at Camden Yards"},
-Post.create(home_team_id: 111, away_team_id: 116, date:"2017-06-19", time: "7:05PM0", home_likes: 0, away_likes: 0, post_likes: 0)
+Post.create(home_team_id: 11, away_team_id: 16, date:"2017-06-19", time: "7:05PM0", home_likes: 0, away_likes: 0, post_likes: 0)
 
 
 {"id":"39589","scheduleStatus":"Normal","originalDate":null,"originalTime":null,"delayedOrPostponedReason":null,"date":"2017-06-19","time":"7:10PM",
@@ -16,7 +16,7 @@ Post.create(home_team_id: 111, away_team_id: 116, date:"2017-06-19", time: "7:05
 "homeTeam":{"ID":"128","City":"Miami","Name":"Marlins","Abbreviation":"MIA"},
 
 "location":"Marlins Park"},
-Post.create(home_team_id: 128, away_team_id: 126, date:"2017-06-19", time: "7:10PM0", home_likes: 0, away_likes: 0, post_likes: 0)
+Post.create(home_team_id: 28, away_team_id: 26, date:"2017-06-19", time: "7:10PM0", home_likes: 0, away_likes: 0, post_likes: 0)
 
 
 {"id":"38606","scheduleStatus":"Normal","originalDate":null,"originalTime":null,"delayedOrPostponedReason":null,"date":"2017-06-19","time":"7:10PM",
@@ -26,7 +26,7 @@ Post.create(home_team_id: 128, away_team_id: 126, date:"2017-06-19", time: "7:10
 "homeTeam":{"ID":"115","City":"Tampa Bay","Name":"Rays","Abbreviation":"TB"},
 
 "location":"Tropicana Field"},
-Post.create(home_team_id: 115, away_team_id: 135, date:"2017-06-19", time: "7:10PM0", home_likes: 0, away_likes: 0, post_likes: 0)
+Post.create(home_team_id: 15, away_team_id: 5, date:"2017-06-19", time: "7:10PM0", home_likes: 0, away_likes: 0, post_likes: 0)
 
 
 {"id":"38017","scheduleStatus":"Normal","originalDate":null,"originalTime":null,"delayedOrPostponedReason":null,"date":"2017-06-19","time":"7:35PM",
@@ -36,7 +36,7 @@ Post.create(home_team_id: 115, away_team_id: 135, date:"2017-06-19", time: "7:10
 "homeTeam":{"ID":"130","City":"Atlanta","Name":"Braves","Abbreviation":"ATL"},
 
 "location":"SunTrust Park"},
-Post.create(home_team_id: 130, away_team_id: 136, date:"2017-06-19", time: "7:35PM0", home_likes: 0, away_likes: 0, post_likes: 0)
+Post.create(home_team_id: 6, away_team_id: 7, date:"2017-06-19", time: "7:35PM0", home_likes: 0, away_likes: 0, post_likes: 0)
 
 
 {"id":"39685","scheduleStatus":"Normal","originalDate":null,"originalTime":null,"delayedOrPostponedReason":null,"date":"2017-06-19","time":"7:40PM",
@@ -46,7 +46,7 @@ Post.create(home_team_id: 130, away_team_id: 136, date:"2017-06-19", time: "7:35
 "homeTeam":{"ID":"134","City":"Milwaukee","Name":"Brewers","Abbreviation":"MIL"},
 
 "location":"Miller Park"},
-Post.create(home_team_id: 134, away_team_id: 132, date:"2017-06-19", time: "7:40PM0", home_likes: 0, away_likes: 0, post_likes: 0)
+Post.create(home_team_id: 8, away_team_id: 9, date:"2017-06-19", time: "7:40PM0", home_likes: 0, away_likes: 0, post_likes: 0)
 
 
 {"id":"40204","scheduleStatus":"Normal","originalDate":null,"originalTime":null,"delayedOrPostponedReason":null,"date":"2017-06-19","time":"8:05PM",
@@ -56,7 +56,7 @@ Post.create(home_team_id: 134, away_team_id: 132, date:"2017-06-19", time: "7:40
 "homeTeam":{"ID":"121","City":"Texas","Name":"Rangers","Abbreviation":"TEX"},
 
 "location":"Globe Life Park in Arlington"},
-Post.create(home_team_id: 121, away_team_id: 112, date:"2017-06-19", time: "8:05PM0", home_likes: 0, away_likes: 0, post_likes: 0)
+Post.create(home_team_id: 21, away_team_id: 12, date:"2017-06-19", time: "8:05PM0", home_likes: 0, away_likes: 0, post_likes: 0)
 
 
 {"id":"38472","scheduleStatus":"Normal","originalDate":null,"originalTime":null,"delayedOrPostponedReason":null,"date":"2017-06-19","time":"8:05PM",
@@ -66,7 +66,7 @@ Post.create(home_team_id: 121, away_team_id: 112, date:"2017-06-19", time: "8:05
 "homeTeam":{"ID":"131","City":"Chicago","Name":"Cubs","Abbreviation":"CHC"},
 
 "location":"Wrigley Field"},
-Post.create(home_team_id: 131, away_team_id: 139, date:"2017-06-19", time: "8:05PM0", home_likes: 0, away_likes: 0, post_likes: 0)
+Post.create(home_team_id: 10, away_team_id: 11, date:"2017-06-19", time: "8:05PM0", home_likes: 0, away_likes: 0, post_likes: 0)
 
 
 {"id":"38321","scheduleStatus":"Normal","originalDate":null,"originalTime":null,"delayedOrPostponedReason":null,"date":"2017-06-19","time":"8:15PM",
@@ -76,7 +76,7 @@ Post.create(home_team_id: 131, away_team_id: 139, date:"2017-06-19", time: "8:05
 "homeTeam":{"ID":"118","City":"Kansas City","Name":"Royals","Abbreviation":"KC"},
 
 "location":"Kauffman Stadium"},
-Post.create(home_team_id: 118, away_team_id: 113, date:"2017-06-19", time: "8:15PM0", home_likes: 0, away_likes: 0, post_likes: 0)
+Post.create(home_team_id: 18, away_team_id: 13, date:"2017-06-19", time: "8:15PM0", home_likes: 0, away_likes: 0, post_likes: 0)
 
 
 {"id":"39207","scheduleStatus":"Normal","originalDate":null,"originalTime":null,"delayedOrPostponedReason":null,"date":"2017-06-19","time":"10:05PM",
@@ -86,7 +86,7 @@ Post.create(home_team_id: 118, away_team_id: 113, date:"2017-06-19", time: "8:15
 "homeTeam":{"ID":"125","City":"Oakland","Name":"Athletics","Abbreviation":"OAK"},
 
 "location":"Oakland-Alameda County Coliseum"},
-Post.create(home_team_id: 125, away_team_id: 122, date:"2017-06-19", time: "10:05PM", home_likes: 0, away_likes: 0, post_likes: 0)
+Post.create(home_team_id: 25, away_team_id: 22, date:"2017-06-19", time: "10:05PM", home_likes: 0, away_likes: 0, post_likes: 0)
 
 
 
@@ -97,7 +97,7 @@ Post.create(home_team_id: 125, away_team_id: 122, date:"2017-06-19", time: "10:0
 "homeTeam":{"ID":"137","City":"Los Angeles","Name":"Dodgers","Abbreviation":"LAD"},
 
 "location":"Dodger Stadium"},
-Post.create(home_team_id: 137, away_team_id: 127, date:"2017-06-19", time: "10:10PM", home_likes: 0, away_likes: 0, post_likes: 0)
+Post.create(home_team_id: 12, away_team_id: 27, date:"2017-06-19", time: "10:10PM", home_likes: 0, away_likes: 0, post_likes: 0)
 
 
 
@@ -108,4 +108,4 @@ Post.create(home_team_id: 137, away_team_id: 127, date:"2017-06-19", time: "10:1
 "homeTeam":{"ID":"123","City":"Seattle","Name":"Mariners","Abbreviation":"SEA"},
 
 "location":"Safeco Field"}]
-Post.create(home_team_id: 123, away_team_id: 117, date:"2017-06-19", time: "10:10PM", home_likes: 0, away_likes: 0, post_likes: 0)
+Post.create(home_team_id: 23, away_team_id: 17, date:"2017-06-19", time: "10:10PM", home_likes: 0, away_likes: 0, post_likes: 0)
