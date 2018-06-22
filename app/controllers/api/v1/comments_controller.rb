@@ -1,8 +1,13 @@
 class Api::V1::CommentsController < ApplicationController
-  before_action :find_comment, only: [:update]
+  before_action :find_comment, only: [:update, :show]
   def index
     @comments = Comment.all
     render json: @comments
+  end
+
+  def show
+    @comment
+    render json: @comment
   end
 
   def update

@@ -14,9 +14,9 @@
 # User.create(name: "Shawn", email: "notrealemail@fake.com")
 #
 Team.create(name: "Orioles", image:'https://www.mlbstatic.com/mlb.com/images/share/110.jpg' city: "Baltimore", abbreviation: "BAL")
-Team.create(name: "Mets", image:'https://www.mlbstatic.com/mlb.com/images/share/121.jpg' city: "New York", abbreviation: "NYM")
-Team.create(name: "Rockies", image:'https://www.mlbstatic.com/mlb.com/images/share/115.jpg' city: "Colorado", abbreviation: "COL")
-Team.create(name: "Red Sox", image:'https://www.mlbstatic.com/mlb.com/images/share/111.jpg' city: "Boston", abbreviation: "BOS")
+# Team.create(name: "Mets", image:'https://www.mlbstatic.com/mlb.com/images/share/121.jpg' city: "New York", abbreviation: "NYM")
+# Team.create(name: "Rockies", image:'https://www.mlbstatic.com/mlb.com/images/share/115.jpg' city: "Colorado", abbreviation: "COL")
+# Team.create(name: "Red Sox", image:'https://www.mlbstatic.com/mlb.com/images/share/111.jpg' city: "Boston", abbreviation: "BOS")
 Team.create(name: "White Sox", image:'https://www.mlbstatic.com/mlb.com/images/share/145.jpg' city: "Chicago", abbreviation: "CWS")
 Team.create(name: "Indians", image:'https://www.mlbstatic.com/mlb.com/images/share/114.jpg' city: "Cleveland", abbreviation: "CLE")
 Team.create(name: "Tigers", image:'https://www.mlbstatic.com/mlb.com/images/share/116.jpg' city: "Detriot", abbreviation: "DET")
@@ -24,7 +24,7 @@ Team.create(name: "Astros", image:'https://cdn.bleacherreport.net/images/team_lo
 Team.create(name: "Royals", image:'https://www.mlbstatic.com/mlb.com/images/share/118.jpg' city: "Kansas City", abbreviation: "KC")
 Team.create(name: "Angels", image:'https://www.mlbstatic.com/mlb.com/images/share/108.jpg' city: "Los Angeles", abbreviation: "LAA")
 Team.create(name: "Twins", image:'https://www.mlbstatic.com/mlb.com/images/share/142.jpg' city: "Minnesota", abbreviation: "MIN")
-Team.create(name: "Yankees", image:'https://www.mlbstatic.com/mlb.com/images/share/147.jpg' city: "New York", abbreviation: "NYY")
+# Team.create(name: "Yankees", image:'https://www.mlbstatic.com/mlb.com/images/share/147.jpg' city: "New York", abbreviation: "NYY")
 Team.create(name: "Athletics", image:'https://www.mlbstatic.com/mlb.com/images/share/133.jpg' city: "Oakland", abbreviation: "OAK")
 Team.create(name: "Mariners", image:'https://www.mlbstatic.com/mlb.com/images/share/136.jpg' city: "Seatle", abbreviation: "SEA")
 Team.create(name: "Rays", image:'https://www.mlbstatic.com/mlb.com/images/share/139.jpg' city: "Tampa Bay", abbreviation: "TB")
@@ -66,26 +66,26 @@ Team.create(name: "Diamondbacks", image:'http://sonorannews.com/wp-content/uploa
 # Comment.create(user_id: 2, post_id: 6, content: "Sick Yeah!")
 # Comment.create(user_id: 1, post_id: 4, content: "WOO HOO")
 
-
-{"id":"38171",
-  "scheduleStatus":"Normal",
-  "originalDate":null,
-  "originalTime":null,
-  "delayedOrPostponedReason":null,
-  "date":"2017-06-19",
-  "time":"7:05PM",
-
-  "awayTeam":{
-    "ID":"116",
-    "City":"Cleveland",
-    "Name":"Indians",
-    "Abbreviation":"CLE"},
-
-  "homeTeam":{
-    "ID":"111",
-    "City":"Baltimore",
-    "Name":"Orioles",
-    "Abbreviation":"BAL"
-    },
-
-    "location":"Oriole Park at Camden Yards"}
+#
+# {"id":"38171",
+#   "scheduleStatus":"Normal",
+#   "originalDate":null,
+#   "originalTime":null,
+#   "delayedOrPostponedReason":null,
+#   "date":"2017-06-19",
+#   "time":"7:05PM",
+#
+#   "awayTeam":{
+#     "ID":"116",
+#     "City":"Cleveland",
+#     "Name":"Indians",
+#     "Abbreviation":"CLE"},
+#
+#   "homeTeam":{
+#     "ID":"111",
+#     "City":"Baltimore",
+#     "Name":"Orioles",
+#     "Abbreviation":"BAL"
+#     },
+#
+#     "location":"Oriole Park at Camden Yards"}
